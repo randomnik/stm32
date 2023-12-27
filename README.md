@@ -1,2 +1,2 @@
 # stm32
-NUCLEO-F103RB 테스트
+NUCLEO-F103RB test 
